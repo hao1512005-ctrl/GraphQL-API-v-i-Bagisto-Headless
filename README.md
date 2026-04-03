@@ -1,7 +1,7 @@
 # Báo cáo: 23810310152-NguyenHao-BagistoHeadless
 
 ## Thông tin sinh viên
-- Họ và tên: Nguyễn Hảo
+- Họ và tên: Nguyễn Thị Hảo
 - MSSV: 23810310152
 
 ## P1: Cài đặt hệ thống (Admin)
